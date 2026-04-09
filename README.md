@@ -46,6 +46,16 @@ End-to-end FastAPI microservice deployed to Azure Container Apps with automated 
 
 ---
 
+### [k8s-observability-platform](https://github.com/KTZMJackie/k8s-observability-platform)
+
+Kubernetes observability platform deployed locally on Minikube. FastAPI microservice 
+packaged with Helm, monitored with Prometheus, visualised in Grafana, and provisioned 
+with Ansible. Entire deployment automated via a single Bash script.
+
+`Kubernetes` `Helm` `Prometheus` `Grafana` `Ansible` `Bash` `Python` `Docker`
+
+---
+
 ## Background
 
 12 years in biotech and life science engineering. 8 years specialising in automation scripting, software validation, and product/script release management in regulated environments. 4 years hands-on with Azure DevOps — bug tracking, code review, pipeline management, and deployment workflows.
@@ -56,8 +66,8 @@ Transitioning into cloud and DevOps engineering with a focus on Azure infrastruc
 
 ## Currently
 
-- Targeting: **Cloud Engineer · DevOps Engineer · Azure Administrator · SRE** roles in Singapore
-- Building: More Azure infrastructure projects
+* Targeting: **Cloud Engineer · DevOps Engineer · Azure Administrator · SRE** roles in Singapore
+* Building: Kubernetes + observability projects (Helm, Prometheus, Grafana)
 
 ---
 
