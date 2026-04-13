@@ -1,4 +1,4 @@
-# Khine Thazin Myint (Jackie) | Cloud & DevOps Engineer
+# Jack | Cloud & DevOps Engineer
 
 **Azure-certified engineer** with 12 years of experience in software validation, CI/CD, and cloud infrastructure — now building production-grade Azure solutions.
 
@@ -9,7 +9,7 @@
 | Certification | Status |
 |---|---|
 | Microsoft Certified: Azure Administrator Associate (AZ-104) | ✅ Passed — April 2026 |
-| Microsoft Certified: Azure Fundamentals (AZ-900) | ✅ Passed — November 2025 |
+| Microsoft Certified: Azure Fundamentals (AZ-900) | ✅ Passed — April 2026 |
 
 ---
 
@@ -46,13 +46,17 @@ End-to-end FastAPI microservice deployed to Azure Container Apps with automated 
 
 ---
 
+### [azure-devops-cicd](https://github.com/KTZMJackie/azure-devops-cicd)
+Production-style 3-stage Azure DevOps pipeline: automated pytest → Docker buildx amd64 image pushed to ACR → zero-downtime deployment to Azure Container Apps. No hardcoded credentials via service connection.
+
+`Python` `Azure DevOps` `Docker` `ACR` `Azure Container Apps` `pytest` `YAML`
+
+---
+
 ### [k8s-observability-platform](https://github.com/KTZMJackie/k8s-observability-platform)
+Kubernetes observability platform running locally on Minikube. FastAPI app deployed via Helm, monitored with Prometheus and Grafana dashboard. Full deployment automated with a single Bash script. Zero cloud cost.
 
-Kubernetes observability platform deployed locally on Minikube. FastAPI microservice 
-packaged with Helm, monitored with Prometheus, visualised in Grafana, and provisioned 
-with Ansible. Entire deployment automated via a single Bash script.
-
-`Kubernetes` `Helm` `Prometheus` `Grafana` `Ansible` `Bash` `Python` `Docker`
+`Python` `Kubernetes` `Minikube` `Helm` `Prometheus` `Grafana` `Ansible` `Bash`
 
 ---
 
@@ -66,15 +70,13 @@ Transitioning into cloud and DevOps engineering with a focus on Azure infrastruc
 
 ## Currently
 
-* Targeting: **Cloud Engineer · DevOps Engineer · Azure Administrator · SRE** roles in Singapore
-* Building: Kubernetes + observability projects (Helm, Prometheus, Grafana)
+- 🎯 Targeting: **Cloud Engineer · DevOps Engineer · Azure Administrator · SRE** roles in Singapore
+- 🔧 Building: More Azure infrastructure projects
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/khine-thazin-myint-1b498152/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 
 > *Based in Singapore · Open to full-time opportunities*
-
-
