@@ -77,6 +77,6 @@ Transitioning into cloud and DevOps engineering with a focus on Azure infrastruc
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/khine-thazin-myint-1b498152/)
 
 > *Based in Singapore · Open to full-time opportunities*
