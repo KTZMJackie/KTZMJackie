@@ -54,14 +54,6 @@ Production-style deployment of a containerized FastAPI application on Azure usin
 
 ---
 
-### [hello-azure-fastapi](https://github.com/KTZMJackie/hello-azure-fastapi)
-End-to-end FastAPI microservice deployed to Azure Container Apps with automated CI/CD via GitHub Actions and secure secret retrieval from Azure Key Vault using Managed Identity.
-**Live demo available.**
-
-`Python` `Docker` `Azure Container Apps` `GitHub Actions` `Key Vault`
-
----
-
 ### [azure-devops-cicd](https://github.com/KTZMJackie/azure-devops-cicd)
 Production-style 3-stage Azure DevOps pipeline: automated pytest → Docker buildx amd64 image pushed to ACR → zero-downtime deployment to Azure Container Apps. No hardcoded credentials via service connection.
 
@@ -70,9 +62,18 @@ Production-style 3-stage Azure DevOps pipeline: automated pytest → Docker buil
 ---
 
 ### [k8s-observability-platform](https://github.com/KTZMJackie/k8s-observability-platform)
-Kubernetes observability platform running locally on Minikube. FastAPI app deployed via Helm, monitored with Prometheus and Grafana dashboard. Full deployment automated with a single Bash script. Zero cloud cost.
 
-`Python` `Kubernetes` `Minikube` `Helm` `Prometheus` `Grafana` `Ansible` `Bash`
+Kubernetes observability platform deployed on both **Minikube** (local) and **AKS on Azure** (cloud). FastAPI deployed via Helm, monitored with Prometheus and Grafana. Includes Terraform IaC for AKS provisioning, 4 Prometheus alert rules with Alertmanager routing, incident runbook + postmortem, and 4 Bash ops scripts.
+
+`Python` `Kubernetes` `AKS` `Terraform` `Helm` `Prometheus` `Grafana` `Ansible` `Bash` `GitHub Actions`
+
+---
+
+### [hello-azure-fastapi](https://github.com/KTZMJackie/hello-azure-fastapi)
+End-to-end FastAPI microservice deployed to Azure Container Apps with automated CI/CD via GitHub Actions and secure secret retrieval from Azure Key Vault using Managed Identity.
+**Live demo available.**
+
+`Python` `Docker` `Azure Container Apps` `GitHub Actions` `Key Vault`
 
 ---
 
@@ -88,8 +89,6 @@ Transitioning into cloud and DevOps engineering with a focus on Azure infrastruc
 
 - 🎯 Targeting: **Cloud Engineer · DevOps Engineer · Azure Administrator · SRE** roles in Singapore
 - 🔧 Building:
-  
-     - Cloud-hosted Kubernetes (AKS) upgrade of my observability platform, adding Prometheus Alertmanager rules and a documented incident runbook + postmortem
 
      - AWS deployment mirroring my Azure work — containerized app on ECS Fargate with Terraform, GitHub Actions, Secrets Manager, and IAM roles (multi-cloud).
 
