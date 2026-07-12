@@ -37,11 +37,14 @@ Azure Container Apps · Azure Container Registry · Azure Key Vault · Azure Blo
 **DevOps & CI/CD**
 GitHub Actions · Azure DevOps (Boards, Repos, Pipelines) · Docker · Terraform
 
-**Languages & Frameworks**
-Python · FastAPI · HCL (Terraform) · YAML · Bash
+**Containers & Observability**
+Kubernetes · AKS · Helm · Prometheus · Grafana · Alertmanager · Ansible
 
 **Security & Identity**
 Managed Identity · RBAC · Azure Key Vault · Zero-credential architecture
+
+**Languages & Frameworks**
+Python · FastAPI · HCL (Terraform) · YAML · Bash
 
 ---
 
