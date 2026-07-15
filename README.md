@@ -50,6 +50,13 @@ Python · FastAPI · HCL (Terraform) · YAML · Bash
 
 ## Featured Projects
 
+### [terraform-azure-infra](https://github.com/KTZMJackie/terraform-azure-infra)
+Security-hardened, modular Azure platform built entirely as Infrastructure-as-Code. Private-networked App Service, Azure SQL (Entra-ID-only auth), Key Vault, and storage — no public data plane, and no stored secrets (managed identity + RBAC). Reusable modules, dev/prod parity, Azure AD-authenticated remote state, and a **secretless OIDC** GitHub Actions pipeline gated by **Checkov** security scanning.
+
+`Terraform` `Azure` `IaC` `Private Endpoints` `OIDC` `Checkov` `TFLint` `GitHub Actions` `Managed Identity` `RBAC`
+
+---
+
 ### [azure-fastapi-project](https://github.com/KTZMJackie/azure-fastapi-project)
 Production-style deployment of a containerized FastAPI application on Azure using Terraform, Managed Identity, Key Vault, Blob Storage, and GitHub Actions CI/CD. No hardcoded credentials. Infrastructure fully managed as code.
 
