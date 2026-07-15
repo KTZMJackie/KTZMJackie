@@ -32,16 +32,16 @@ That's release engineering, test automation, and incident response — the SRE m
 ## Technical Stack
 
 **Cloud & Infrastructure**
-Azure Container Apps · Azure Container Registry · Azure Key Vault · Azure Blob Storage · Azure Virtual Networks · Azure DNS · Azure Load Balancer · Azure Monitor
+Azure Container Apps · Azure App Service · Azure SQL Database · Azure Container Registry · Azure Key Vault · Azure Blob Storage · Azure Virtual Networks · Private Endpoints · Azure DNS · Azure Load Balancer · Azure Monitor · Log Analytics · Application Insights
 
 **DevOps & CI/CD**
-GitHub Actions · Azure DevOps (Boards, Repos, Pipelines) · Docker · Terraform
+GitHub Actions · Azure DevOps (Boards, Repos, Pipelines) · Docker · Terraform · TFLint · Checkov · pre-commit
 
 **Containers & Observability**
 Kubernetes · AKS · Helm · Prometheus · Grafana · Alertmanager · Ansible
 
 **Security & Identity**
-Managed Identity · RBAC · Azure Key Vault · Zero-credential architecture
+Managed Identity · RBAC · Entra ID (Azure AD) · OIDC Federation · Azure Key Vault · Private Endpoints · Policy-as-Code · Zero-credential architecture
 
 **Languages & Frameworks**
 Python · FastAPI · HCL (Terraform) · YAML · Bash
